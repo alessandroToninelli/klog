@@ -1,6 +1,7 @@
 import java.util.Properties
 import java.io.FileInputStream
 import org.jetbrains.dokka.gradle.DokkaTask
+import org.jetbrains.kotlin.javac.resolve.classId
 import java.util.Date
 
 plugins {
@@ -26,7 +27,12 @@ dependencies {
 
 }
 
+sourceSets.main{
+    java.srcDir("src/main/kotlin")
+}
+
 tasks {
+
     compileKotlin {
         kotlinOptions.jvmTarget = "1.8"
     }
@@ -35,19 +41,18 @@ tasks {
     }
 
 
-    register<Jar>("javadocJar") {
-        val dokkaTask = getByName<DokkaTask>("dokka")
-        from(dokkaTask.outputDirectory)
-        dependsOn(dokkaTask)
-        archiveClassifier.set("javadoc")
+    register<Jar>("sourceJar") {
+        archiveClassifier.set("sources")
+        from(sourceSets.getByName("main").allSource)
     }
 
     dokka {
         outputFormat = "html"
-        outputDirectory = "$buildDir/dokka"
-
+        outputDirectory = "$buildDir/javadoc"
     }
+
 }
+
 
 val properties = Properties()
 properties.load(FileInputStream("local.properties"))
@@ -55,10 +60,31 @@ properties.load(FileInputStream("local.properties"))
 publishing {
     publications {
         create<MavenPublication>("default") {
-            from(components["java"])
-            artifact(tasks["javadocJar"])
+            artifactId = project.name
             groupId = project.group.toString()
             version = project.version.toString()
+            from(components["java"])
+            artifact(tasks["sourceJar"])
+
+            pom {
+                name.set(rootProject.name)
+                url.set("https://github.com/alessandroToninelli/klog")
+                licenses {
+                    license {
+                        name.set("The Apache Software License, Version 2.0")
+                        url.set("http://www.apache.org/licenses/LICENSE-2.0.txt")
+                    }
+                }
+                developers {
+                    developer {
+                        name.set("Alessandro Toninelli")
+                        id.set("alessandroToninelli")
+                    }
+                }
+                scm {
+                    url.set("https://github.com/alessandroToninelli/klog")
+                }
+            }
         }
     }
 }
@@ -67,10 +93,10 @@ bintray {
     user = properties.getProperty("bintray.user")
     key = properties.getProperty("bintray.apikey")
     setPublications("default")
-    publish = true //[Default: false] Whether version should be auto published after an upload
+    publish = true
     pkg.apply {
         repo = "toninelli-library"
-        name = "klog"
+        name = rootProject.name
         setLicenses("Apache-2.0")
         version.apply {
             name = "${project.version}"
