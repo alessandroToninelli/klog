@@ -49,9 +49,6 @@ tasks {
     }
 }
 
-
-
-
 val properties = Properties()
 properties.load(FileInputStream("local.properties"))
 
