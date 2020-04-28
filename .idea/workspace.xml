@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40d543fb-ecbf-49bd-91ef-a34b06a854a2" name="Default Changelist" comment="biubb">
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Klog" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Klog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Klog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Klog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Klog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Klog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="publishing" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KonanWorkspace">
+    <executables />
+  </component>
+  <component name="ProjectId" id="1b7LSNVLz9F9lBsVwVrDRro0ik9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.1724138" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Gradle.Klog [bintrayUpload]">
+    <configuration name="Klog [bintrayPublish]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bintrayPublish" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Klog [bintrayUpload]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bintrayUpload" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Klog [dokka]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dokka" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Klog [javadoc]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="javadoc" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Klog.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Klog [bintrayPublish]" />
+        <item itemvalue="Gradle.Klog [bintrayUpload]" />
+        <item itemvalue="Gradle.Klog [javadoc]" />
+        <item itemvalue="Gradle.Klog [dokka]" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40d543fb-ecbf-49bd-91ef-a34b06a854a2" name="Default Changelist" comment="" />
+      <created>1587978183887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587978183887</updated>
+      <workItem from="1587978185216" duration="6611000" />
+      <workItem from="1587992322047" duration="7083000" />
+    </task>
+    <task id="LOCAL-00001" summary="prova">
+      <created>1588060906083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588060906083</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add git ignore">
+      <created>1588061621169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588061621169</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add git ignore">
+      <created>1588061694516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588061694516</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add git ignore">
+      <created>1588061896583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588061896583</updated>
+    </task>
+    <task id="LOCAL-00005" summary="biubb">
+      <created>1588062401308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588062401308</updated>
+    </task>
+    <task id="LOCAL-00006" summary="biubb">
+      <created>1588062505300</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588062505300</updated>
+    </task>
+    <task id="LOCAL-00007" summary="biubb">
+      <created>1588062605377</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588062605377</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="prova" />
+    <MESSAGE value="add git ignore" />
+    <MESSAGE value="biubb" />
+    <option name="LAST_COMMIT_MESSAGE" value="biubb" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="301" key="#Project_Structure" timestamp="1587978206865">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="768" y="301" key="#Project_Structure/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1587978206865" />
+    <state x="1064" y="443" key="#com.intellij.ide.util.MemberChooser" timestamp="1587979118031">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1064" y="443" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1587979118031" />
+    <state x="1018" y="474" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588062646501">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1018" y="474" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588062646501" />
+    <state x="857" y="295" key="CommitChangelistDialog2" timestamp="1588060884314">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="857" y="295" key="CommitChangelistDialog2/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588060884314" />
+    <state width="2518" height="424" key="GridCell.Tab.0.bottom" timestamp="1588061868856">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588061868856" />
+    <state width="2518" height="424" key="GridCell.Tab.0.center" timestamp="1588061868855">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.center/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588061868855" />
+    <state width="2518" height="424" key="GridCell.Tab.0.left" timestamp="1588061868855">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.left/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588061868855" />
+    <state width="2518" height="424" key="GridCell.Tab.0.right" timestamp="1588061868856">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.right/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588061868856" />
+    <state x="781" y="359" key="SettingsEditor" timestamp="1588062339798">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="781" y="359" key="SettingsEditor/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588062339798" />
+    <state x="880" y="460" key="Vcs.Push.Dialog.v2" timestamp="1588062609257">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="880" y="460" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588062609257" />
+    <state x="1068" y="641" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588062453570">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1068" y="641" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588062453570" />
+    <state x="1068" y="641" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/-1920.383.1920.1057@0.0.2560.1440" timestamp="1588060960713" />
+  </component>
+</project>
