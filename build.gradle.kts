@@ -35,7 +35,6 @@ tasks {
     }
 
 
-
     register<Jar>("javadocJar") {
         val dokkaTask = getByName<DokkaTask>("dokka")
         from(dokkaTask.outputDirectory)

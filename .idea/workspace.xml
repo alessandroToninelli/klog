@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d543fb-ecbf-49bd-91ef-a34b06a854a2" name="Default Changelist" comment="biubb">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/publications/default/module.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/publications/default/module.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/publishDefaultPublicationToMavenLocal/module-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/publishDefaultPublicationToMavenLocal/module-maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +234,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587978183887</updated>
       <workItem from="1587978185216" duration="6611000" />
-      <workItem from="1587992322047" duration="7563000" />
+      <workItem from="1587992322047" duration="7768000" />
     </task>
     <task id="LOCAL-00001" summary="prova">
       <created>1588060906083</created>
@@ -305,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588062929280</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="biubb">
+      <created>1588063333329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588063333329</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,10 +367,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="781" y="359" key="SettingsEditor/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588062339798" />
-    <state x="880" y="460" key="Vcs.Push.Dialog.v2" timestamp="1588062932760">
+    <state x="880" y="460" key="Vcs.Push.Dialog.v2" timestamp="1588063337520">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="880" y="460" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588062671345" />
+    <state x="880" y="460" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1588063337520" />
     <state x="880" y="460" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.383.1920.1057@0.0.2560.1440" timestamp="1588062932760" />
     <state x="1068" y="641" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588062453570">
       <screen x="0" y="0" width="2560" height="1440" />
